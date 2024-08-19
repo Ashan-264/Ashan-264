@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashan Deen</h1>
 <h3 align="center">A developer skilled in cloud computing, mobile developement and embedded systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashan-264&label=Profile%20views&color=0e75b6&style=flat" alt="ashan-264" /> </p>
+
 
 - 🔭 I’m currently working on [Android Activity tracker](https://github.com/Ashan-264/Activity-Tracker)
 
