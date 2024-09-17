@@ -48,7 +48,7 @@ Projects of other organizations I have contributed to
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashan-264&show_icons=true&locale=en" alt="ashan-264" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashan-264&" alt="ashan-264" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashan-264&" alt="ashan-264" /></p> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashan-264&label=Profile%20views&color=0e75b6&style=flat" alt="ashan-264" /> </p> -->
 
