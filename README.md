@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashan Deen</h1>
-<h3 align="center">A developer skilled in cloud computing, mobile developement and embedded systems</h3>
+<h3 align="center">A full stack developer in cloud computing, mobile developement and embedded systems</h3>
 
 - 👨‍💻 Portfolio [https://ashan264.com/](https://ashan264.com/)
 
