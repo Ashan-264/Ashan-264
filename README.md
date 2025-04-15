@@ -1,25 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ashan Deen</h1>
 <h3 align="center">A developer skilled in cloud computing, mobile developement and embedded systems</h3>
 
-
-
-- 🔭 I’m currently working on [Android Activity tracker](https://github.com/Ashan-264/Activity-Tracker)
-
-- 🌱 I’m currently learning **MERN stack, Mobile developement**
-
-- 👯 I’m looking to collaborate on [Health and fitness Wearable Tech](https://www.linkedin.com/posts/ashan264_my-paper-non-published-on-the-fitness-tracking-activity-7217335154225090561-YLhH?utm_source=share&utm_medium=member_desktop)
-
-- 🤝 I’m looking for help with [Embedded systems and System Verilog](https://github.com/Operating-System-Modelling)
-
 - 👨‍💻 Portfolio [https://ashan264.com/](https://ashan264.com/)
 
 - 💬 Ask me about **Android studio, AWS, System Verilog, C, Java**
 
 - 📫 How to reach me **Ashan@gatech.edu**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ashan264/overlay/1723144040484/single-media-viewer/?type=DOCUMENT&profileId=ACoAADdM8bMBQhEG4aMc166wIG7xtpsa0KcD8FU](https://www.linkedin.com/in/ashan264/overlay/1723144040484/single-media-viewer/?type=DOCUMENT&profileId=ACoAADdM8bMBQhEG4aMc166wIG7xtpsa0KcD8FU)
+- 📄 My Resume [https://www.linkedin.com/in/ashan264/overlay/1723144040484/single-media-viewer/?type=DOCUMENT&profileId=ACoAADdM8bMBQhEG4aMc166wIG7xtpsa0KcD8FU](https://www.linkedin.com/in/ashan264/overlay/1723144040484/single-media-viewer/?type=DOCUMENT&profileId=ACoAADdM8bMBQhEG4aMc166wIG7xtpsa0KcD8FU)
 
-- ⚡ Fun fact **I enjoy sport -> Calisthenics, Mountain Biking, Kayaking and Holistic Health**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
