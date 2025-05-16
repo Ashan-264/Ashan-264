@@ -3,7 +3,7 @@
 
 - 👨‍💻 Portfolio [https://ashan264.com/](https://ashan264.com/)
 
-- 💬 Ask me about **Android studio, AWS, System Verilog, C, Java**
+- 💬 Ask me about **cloud computing, Mobile developement, Web developement, AI/ML**
 
 - 📫 How to reach me **Ashan@gatech.edu**
 
