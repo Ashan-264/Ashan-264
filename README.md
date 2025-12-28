@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Ashan@gatech.edu**
 
-- 📄 My Resume [https://www.linkedin.com/in/ashan264/overlay/1723144040484/single-media-viewer/?type=DOCUMENT&profileId=ACoAADdM8bMBQhEG4aMc166wIG7xtpsa0KcD8FU](https://www.linkedin.com/in/ashan264/overlay/1747353016127/single-media-viewer?type=DOCUMENT&profileId=ACoAADdM8bMBQhEG4aMc166wIG7xtpsa0KcD8FU&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B1bSSKlDlT3KLLoKzq2jc1w%3D%3D)
+
 
 
 <h3 align="left">Connect with me:</h3>
